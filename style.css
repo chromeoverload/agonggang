@@ -1,0 +1,19 @@
+
+.bigtitle {
+    font-family: 'Vast Shadow', cursive; color: #000000; text-align: center; width: 90%; margin: auto; text-shadow: 1px 2px grey;
+}
+body {
+    background-color: #ffffff;
+background-image: url("https://www.transparenttextures.com/patterns/white-texture.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+.maintext {
+    font-family: 'Special Elite', cursive; width: 60%; text-align: center; margin: auto; color: #6C596E; font-size: 15; text-shadow: 1px 1px lightgrey; padding-bottom: 20; padding-top: 20;
+}
+
+
+
+.scrollingim {
+    display: block; margin: auto; border: 20px solid white; box-shadow: 0px 0px 2px 3px grey;
+}
